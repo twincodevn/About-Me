@@ -1,8 +1,6 @@
-ning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MarkBillGates/MarkBillGates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+私の名前はグエンディントゥアンです
+ベトナムというS字型の国から来ています。
+現在、私は FPT DA NANG 大学の新入生です。
+私はPythonc / c ++言語のエキスパートプログラマーです。
+訪問していただきありがとうございます。Facebook経由で私に話しかけてください。
+https://www.facebook.com/brave3000/
