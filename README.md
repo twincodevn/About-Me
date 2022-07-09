@@ -1,6 +1,2 @@
-私の名前はグエンディントゥアンです
-ベトナムというS字型の国から来ています。
-現在、私は FPT DA NANG 大学の新入生です。
-私はPythonc / c ++言語のエキスパートプログラマーです。
-訪問していただきありがとうございます。Facebook経由で私に話しかけてください。
+Code không bug không phải là coder :)))
 https://www.facebook.com/brave3000/
