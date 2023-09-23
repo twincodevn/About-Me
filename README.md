@@ -71,7 +71,8 @@
 
 
 <p align="center">
-<a href="https://www.instagram.com/bravee06/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/bravee06/"><img alt="Instagram" src="![image](https://github.com/MarkBillGates/MarkBillGates/assets/92498954/bdd3eab3-f048-4e09-95b7-7b3d30998faf)
+"></a>
 
 <a href="mailto:bravee3000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bravee3000@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
